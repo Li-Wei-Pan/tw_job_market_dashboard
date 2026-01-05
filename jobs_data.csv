@@ -1,0 +1,174 @@
+company,title,description,low_salary,high_salary,link,address,pcSkills,avg_salary,skills_tags
+希格諾科技股份有限公司,韌體工程師 (工作地點高雄市苓雅區),"# 嵌入式 Linux 韌體工程師
+
+工作內容：
+1. 在嵌入式 Linux 平台（如 Jetson Nano / ARM SoC）上進行 C / C++ 與 Python 程式開發。
+2. 開發與整合韌體功能模組，並進行 SDK 封裝與維護，提供應用層或客戶使用。
+3. 整合與控制硬體週邊（UART、SPI、I2C、CAN、GPIO 等），確保系統穩定與效能最佳化。
+4. 撰寫測試程式（Python / MATLAB），用於自動化測試與數據分析。
+5. 撰寫與維護技術規格文件、API 文件與使用手冊。
+6. 與硬體、軟體工程團隊合作，進行系統整合、功能驗證與除錯。
+
+此職位具有穩定性和發展前景，歡迎對韌體開發有興趣的人加入我們的團隊。
+如果您對此職位感興趣並符合資格，請盡快投遞您的履歷表，期待與您共事！",0,0,https://www.104.com.tw/job/8u7km,高雄市苓雅區,"[{'code': '12001001007', 'description': 'Linux'}, {'code': '12001001042', 'description': 'Android'}, {'code': '12001002003', 'description': 'MCU'}, {'code': '12001003008', 'description': 'C'}, {'code': '12001003010', 'description': 'C++'}, {'code': '12004001002', 'description': 'ARM'}, {'code': '12001003045', 'description': 'Python'}, {'code': '12001003034', 'description': 'Matlab'}]",,"Linux, Android, MCU, C, C++, ARM, Python, Matlab"
+群益金鼎證券股份有限公司,【資訊】AI工程師,"1 .工程、數學或統計相關背景
+2. 熟悉各種深度學習與機器學習演算法
+3. 熟悉資料前處理與特徵工程
+4. 具備設計及訓練深度學習模型並進行調校的能力
+5. 了解部署AI模型於實際應用技術
+6. 協助跨部門進行AI技術整合經驗
+7. 熟悉大語言",0,0,https://www.104.com.tw/job/8n8f4,台北市松山區,"[{'code': '12001003099', 'description': 'Prompt'}, {'code': '12001003097', 'description': 'LLM'}, {'code': '12001003045', 'description': 'Python'}]",,"Prompt, LLM, Python"
+中國信託商業銀行股份有限公司,科技金融_資料工程師,"1. 負責需求分析與流程規劃，洞察潛在關鍵應用或數據，並運用內外部數據進行前期探索分析及策略建議。
+2. 負責梳理並規劃機器學習研發資料庫架構，建立數據品質流程管理與維護計畫，掌握數據產品策略及生命週期。
+3. 能將數據應用產品轉化為需求文件、系",0,0,https://www.104.com.tw/job/73am4,台北市南港區,"[{'code': '12001003045', 'description': 'Python'}, {'code': '12001004032', 'description': 'MySQL'}, {'code': '12001005022', 'description': 'hadoop'}, {'code': '12003004004', 'description': 'Hive'}]",,"Python, MySQL, hadoop, Hive"
+綠捷股份有限公司,【研發部】AI影像處理工程師-楊梅,"1.	熟悉OpenCV, YOLO, TensorFlow, PyTorch等開發工具。
+2.	AI影像處理、電腦視覺、機器學習等開發經驗。
+3.	能獨立開發與作業，撰寫相關文件及規格書。
+4.	須配合出差、加班、現場測試調整、排除程式問題、蒐集",0,0,https://www.104.com.tw/job/8n40y,桃園市楊梅區,[],,NA
+集星資通股份有限公司,產品專案經理,"◆工作內容
+我們需要您對直播市場充滿熱情，專注於用戶體驗並以數據驅動研究，您必須具備強烈的成長心態，幫助團隊改進跨國用戶直播產品的體驗。
+
+您將跨部門工作，並與跨國市場營銷、商務合作，規劃令人興奮的功能，定義里程碑，管理風險並加快新功能發佈時間。我們正在尋找具備強大產品規劃技能的你，平衡多個項目，擁抱不確定性和面對新挑戰。
+
+◆主要職責
+- 分析模式和產業趨勢，並識別新的產品機會，以提高產品新功能留存率。
+- 徵求想法和反饋，收集需求，撰寫產品規格和工作流程，並協調跨部門甚至跨國團隊。
+- 定義關鍵產品指標並監控產品性能。
+- 與運營團隊、經紀部門合作，管理功能待辦事項、制定PRD和詳細規格。
+- 與設計師、前後端工程師、TPM合作，安排開發項目優先級排序，規劃時間表且執行。
+
+",50000,0,https://www.104.com.tw/job/8fx9x,台北市內湖區,"[{'code': '12001001002', 'description': 'Apple'}, {'code': '12001008003', 'description': 'Excel'}, {'code': '12001008012', 'description': 'PowerPoint'}, {'code': '12001008016', 'description': 'Word'}, {'code': '12001008036', 'description': 'Scrum'}]",50000.0,"Apple, Excel, PowerPoint, Word, Scrum"
+凱基證券股份有限公司,【凱基證券/數位創新部】數據工程師,"1. 資料倉儲等系統或機器學習建模之資料收集、開發處理與管理維護
+2. 業務單位數據需求開發",0,0,https://www.104.com.tw/job/7jogm,台北市中正區,"[{'code': '12001004031', 'description': 'MS SQL'}, {'code': '12001004035', 'description': 'Oracle'}, {'code': '12001004018', 'description': 'ETL'}]",,"MS SQL, Oracle, ETL"
+台灣智慧雲端服務股份有限公司,(Presales)產業數位轉型顧問,"1. 提供產品售前Presales技術支援與問題分析，支援產品展示、功能說明與應用場景架構
+2. 協助了解客戶需求及解決方案規劃，需求解析，轉化為產品與技術規格
+3. 協助數位轉型及 AI 智慧應用導入資源整合與問題排解，確保產品/服務導入客戶端順暢並達成客戶預期
+4. 協同外部夥伴及方案供應商與內部資源，規劃完整客戶端解決方案
+5. 負責 RFI, RFP 專標案準備、撰寫專案提案簡報與建置規劃，產品價值與導入效益論述，確保符合客戶需求
+6. 協助跟進解決回應客戶技術問題建立與維持良好客戶關係
+7. 掌握市場趨勢與競品分析比較，論述公司產品的價值高度與技術優勢，提升成交率
+
+#Presales #AI轉型顧問 #解決方案架構師
+
+",0,0,https://www.104.com.tw/job/8r6jg,新北市淡水區,[],,NA
+世界先進積體電路股份有限公司,VIS250110-【2026研發替代役RDSS】ERP系統維運工程師(新竹廠),"1.科系：碩士，資管、資工等相關系所。
+2.班制：常日班。
+3.工作內容：
+(1) Oracle ERP及相關系統維運 ( Oracle Database、Java、.NET )
+(2) 與使用者合作確認需求，設計資訊系統解決方案，完成軟體開發
+(3) 應用新技術提高企業的決策能力 (AI、BI、自動化工具、行動裝置)
+4.說明：
+(1)請於履歷表中註明論文主題(方向)及所學專長。
+(2)請檢附學士(含)以上之成績單。",0,0,https://www.104.com.tw/job/8twmz,新竹市,[],,NA
+希悌電信通訊器材有限公司,6 axis robot operation engineer,"Project and schedule:
+
+1.
+Select equipment for 6 axis robot operation environment for total up to 5-6 different tools.
+Glue Dispenser
+Screw Driver
+Solder Station
+Robotic Hand Changer
+1 or 2 maybe even more kinds of grippers for pick and place.
+
+2.
+Learn how to use Robotic Hand Changer and set up operating environment. To use 1 pc 6-axis robot arm for all operations: Glue, Screw, solder, grippers and maybe other.
+
+Sample of what we want to create: https://youtu.be/AAnqe4h1orA 
+But in the sample have 2 tools. Drill and screw driver. We want to make environment for 5-6 tools.
+
+Stage: Sample production
+
+3.
+Order 2nd 6 axis robot Arm to improve the number of actions can be done by 6 axis robots for production.
+
+4.
+Make Automation for sample:
+Our existing products
+Our new design products
+Our Business friend products.
+Keep and share the software which made by you and create videos to share inside of the team and with our customers.
+
+5.
+Create environment and select equipment for the automation of mass production for the product which made before sample production.
+
+Under the request, we can give maximum technical documents and videos to understand the Robot operation and future work.
+Here is simple Tutorial Video of Hitbot 6 axis collaboration robot S922: https://www.youtube.com/watch?v=HWKRD_Zbx4E
+
+",400,0,https://www.104.com.tw/job/8wnqn,新北市中和區,"[{'code': '12001003009', 'description': 'C#'}, {'code': '12001003010', 'description': 'C++'}, {'code': '12001003025', 'description': 'Java'}, {'code': '12001003045', 'description': 'Python'}]",400.0,"C#, C++, Java, Python"
+GARMIN_台灣國際航電股份有限公司,【全球智慧製造】資料科學工程師 Data Scientist,"據處理、機器學習和預測性分析等方面的技能，能夠從複雜的數據中識別關鍵洞見，提出可操作的解決方案。 
+
+合作能力：
+能夠有效地與不同部門合作，協調專案的進行。 
+
+【工作內容】 
+1.使用資料科學技巧，分析大量數據以尋找工廠運營的關鍵洞見 
+2.依據",0,0,https://www.104.com.tw/job/70tf5,新北市新店區,"[{'code': '12001002018', 'description': 'Git'}, {'code': '12001003045', 'description': 'Python'}, {'code': '12001003078', 'description': 'R'}, {'code': '12001004031', 'description': 'MS SQL'}, {'code': '12001004038', 'description': 'PL/SQL'}, {'code': '12001011001', 'description': 'Tableau'}]",,"Git, Python, R, MS SQL, PL/SQL, Tableau"
+中央研究院_人文社會科學研究中心,地理資訊科學研究專題中心-IAIA計畫專任助理,"1.協助執行「研發AI在人文與科學研究的創新應用計畫(IAIA)」
+2.進行空間資訊人工智慧(Geo AI)研究，發展黑白歷史航空影像的色彩增強與合成技術。
+3.其他計畫主持人交辦事項。
+",31920,0,https://www.104.com.tw/job/8lftk,台北市南港區,[],31920.0,NA
+東科聲學股份有限公司,[IT] AI(資深)工程師,"負責公司內部 AI 應用的開發、整合與推廣，協助各部門導入 AI 技術以提升營運效率與創新能力：
+
+-設計、開發並維護 AI 模型與系統（如 NLP、Computer Vision、Recommendation Systems 等）
+-與業務單位合作，了解需求並提出 AI 解決方案
+-整合 AI 技術至現有系統與流程中（如 ERP、CRM、客服系統等）
+-研究並評估最新 AI 技術與工具，提出導入建議
+-建立 AI 使用標準與最佳實踐，推動公司 AI 化文化
+-協助內部教育訓練，提升員工對 AI 的認識與應用能力
+
+*依公司安排，需可配合公司出差海外工廠跟進相關專案。",0,0,https://www.104.com.tw/job/8ssl5,新北市新店區,[],,NA
+三竹資訊股份有限公司,AI應用工程師,"技能需求：
+ 1. ⼆年或以上機器學習或深度學習實務應用模型建構經驗。
+ 2. 熟悉 Python 程式設計語言，並能夠將其應⽤於模型建構。
+ 3. 熟悉⼤規模資料的前處理與分析能⼒，例如資料清理/轉換/分割/合併/正規化/特徵⼯程。 
+ 4.",0,0,https://www.104.com.tw/job/8mtc6,台北市中山區,"[{'code': '12001003089', 'description': 'Keras'}, {'code': '12001003086', 'description': 'PyTorch'}, {'code': '12001003087', 'description': 'tensorflow'}, {'code': '12001003045', 'description': 'Python'}]",,"Keras, PyTorch, tensorflow, Python"
+凸版蓋特資訊股份有限公司,Junior Machine Learning Engineer,"工作內容:
+1. 開發爬蟲工具並協助公司蒐集資料
+2. 撰寫程序清理影像辨識資料
+3. 開發或管理線上標註工具
+4. 協助開發影像辨識演算法
+5. 協助將算法模組部屬到客戶端，並且依客戶端狀況進行調適
+6. 文件撰寫",60000,0,https://www.104.com.tw/job/7ddsp,台北市中正區,"[{'code': '12001001007', 'description': 'Linux'}, {'code': '12001002016', 'description': 'Github'}, {'code': '12001003010', 'description': 'C++'}, {'code': '12001003045', 'description': 'Python'}, {'code': '12001003080', 'description': 'Go'}, {'code': '12001004032', 'description': 'MySQL'}, {'code': '12001004035', 'description': 'Oracle'}, {'code': '12001005022', 'description': 'hadoop'}]",60000.0,"Linux, Github, C++, Python, Go, MySQL, Oracle, hadoop"
+工研院 _財團法人工業技術研究院,工研院服科中心_AI語音演算法開發工程師 (S200),"合成（TTS）和語音識別技術，針對專案需求優化與修改模型架構與演算法設計。 
+模型訓練：使用機器學習和深度學習技術訓練語音模型，提高識別和合成的準確性和效率。 
+性能優化：針對不同應用場景，優化演算法的性能和資源佔用。 
+技術研究：跟蹤最新的 AI",0,0,https://www.104.com.tw/job/8l1wo,新竹縣竹東鎮,[],,NA
+聆機科技股份有限公司,後端工程師 | Python｜AI｜雲端,"型系統設計或高併發場景開發經驗。
+- 熟悉雲端平台（AWS 或 GCP）與生成式 AI 應用。
+- 熟悉生成式 AI 應用。
+- 擁有機器學習、資安背景，或熟悉 DevOps/DevSecOps 流程。",0,0,https://www.104.com.tw/job/8s12x,新竹市,"[{'code': '12001002018', 'description': 'Git'}, {'code': '12001003045', 'description': 'Python'}, {'code': '12001003097', 'description': 'LLM'}, {'code': '12001006043', 'description': 'Django'}]",,"Git, Python, LLM, Django"
+國泰金控_國泰金融控股股份有限公司,"企業架構 - 技術架構師 (數數發中心, DDT)_I00014605","我們正在尋找具有熱情和創造力的資深軟體工程師/技術專家/軟體架構師，加入我們快速發展的企業技術架構團隊，研究開發創新的技術和有價值的金融應用，並落實在以下發展範疇：現代化保險科技、智慧金融醫療及綠色金融科技等。
+
+# 工作職掌：
+* 架構規劃能力：需要設計可擴展、高可用且安全的分散式軟體架構，至少熟悉至少一項技術領域，包括前端、後端、資料庫、中間層、雲基礎架構等，並且能夠滿足金融業的特殊需求，如資安合規、金融風險控制等。
+* 跨團隊合作和溝通能力：能夠與專案經理、開發團隊、測試團隊和維運團隊等不同的團隊合作，清楚理解專案需求，可清晰表達技術規劃方案，協助專案解決在開發和維運中所面臨的技術問題。
+* 系統設計能力：具備軟體工程方法及敏捷專案知識，熟悉系統設計方法論，如UML，產出架構設計藍圖及文件，滿足專案功能面及非功能面需求。
+* 評估軟體解決方案的能力：需要能夠評估各種不同的軟體解決方案，包括商業和開源軟體，並且能夠依照專案需求選擇最佳解決方案。
+
+**請同步於 104 及以下職缺連結投遞履歷，可以讓我們在審閱履歷上會更快速喔！**
+投遞連結：https://recruit.cathayholdings.com/CathaybkHR/servlet/HttpDispatcher/EZA0_0320/jobDetail?applFormNo=I00014605
+
+
+",0,0,https://www.104.com.tw/job/87w3c,台北市信義區,[],,NA
+DELOITTE CONSULTING BUSINESSES_勤業眾信管理顧問股份有限公司,【科技與轉型服務】數位轉型服務-AI與數據分析資深顧問,"數據分析解決方案
+2. 運用統計及機器學習等技術，針對客戶需求進行數據處理、數據分析、建模、資料視覺化設計等相關工作，並進行模型評估，提供商業洞察
+3. 協助專案研發與新技術的導入",0,0,https://www.104.com.tw/job/8waeh,台北市信義區,"[{'code': '12001003045', 'description': 'Python'}, {'code': '12001003078', 'description': 'R'}]",,"Python, R"
+台新新光金控_台新國際商業銀行股份有限公司,〔個金〕2026年度研發替代役-數據規劃師(含役前實習) (台北),"想要在畢業旺季前就獲得實習就業機會? 
+想要讓自己當兵也能職場經驗收穫滿滿?
+
+★想往研發替代役的同學們趕快看過來★ 
+☆☆台新銀行，為研發替代役男創造更多機會☆☆
+業界少有的先實習再媒合，讓您掌握職務更容易。
+
+職務內容:
+
+1.數據探勘導入與應用。
+2.雲端分析技術評估、AI專題研究。
+3.語音數據分析、業務應用規劃。",0,0,https://www.104.com.tw/job/8khof,台北市大安區,"[{'code': '12001003045', 'description': 'Python'}, {'code': '12001004031', 'description': 'MS SQL'}, {'code': '12003005009', 'description': 'SAS'}]",,"Python, MS SQL, SAS"
+圖策科技股份有限公司,Backend Engineer 後端軟體工程師,"以及查詢語言: Oracle, SQL Server, MySQL/MariaDB
+√ 了解Graph Database概念
+√ 具雲端平台相關經驗 AWS, Azure or GCP
+√ 了解或是具有機器學習,深度學習相關課程經驗
+
+
+【",0,0,https://www.104.com.tw/job/6yoyu,台北市松山區,"[{'code': '12001006034', 'description': 'Node.js'}, {'code': '12001004018', 'description': 'ETL'}, {'code': '12001004031', 'description': 'MS SQL'}, {'code': '12001004032', 'description': 'MySQL'}, {'code': '12001004035', 'description': 'Oracle'}, {'code': '12001004039', 'description': 'PostgreSQL'}, {'code': '12001004041', 'description': 'RDBMS'}, {'code': '12001006013', 'description': 'HTML'}, {'code': '12001006017', 'description': 'JavaScript'}, {'code': '12001006032', 'description': 'CSS'}, {'code': '12001003045', 'description': 'Python'}, {'code': '12001006036', 'description': 'ReactJS'}, {'code': '12001006041', 'description': 'D3.js'}, {'code': '12001007043', 'description': 'LDAP'}, {'code': '12001007067', 'description': 'Socket'}, {'code': '12001007070', 'description': 'ssh'}, {'code': '12001007071', 'description': 'TCP/IP'}, {'code': '12003003018', 'description': 'Junit'}, {'code': '12003003023', 'description': 'Mantis'}, {'code': '12003003067', 'description': 'Version Control'}, {'code': '12001001007', 'description': 'Linux'}, {'code': '12001001008', 'description': 'Mac OS'}, {'code': '12001001046', 'description': 'Windows 10'}, {'code': '12001002005', 'description': 'OOP'}, {'code': '12001002018', 'description': 'Git'}, {'code': '12001003008', 'description': 'C'}, {'code': '12001003010', 'description': 'C++'}]",,"Node.js, ETL, MS SQL, MySQL, Oracle, PostgreSQL, RDBMS, HTML, JavaScript, CSS, Python, ReactJS, D3.js, LDAP, Socket, ssh, TCP/IP, Junit, Mantis, Version Control, Linux, Mac OS, Windows 10, OOP, Git, C, C++"
