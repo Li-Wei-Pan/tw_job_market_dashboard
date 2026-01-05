@@ -2,11 +2,23 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-import re
+import sqlite3
 
 @st.cache_data
 def load_data():
-    return pd.read_csv('jobs_data.csv')
+    conn = sqlite3.connect("job.db")
+    query = "SELECT * FROM job_listings"
+
+    df = pd.read_sql(sql = query, con = conn)
+    conn.close()
+    df = df.drop_duplicates(subset= ['title', 'company'])
+    df['avg_salary'] = pd.to_numeric(df['avg_salary'], errors='coerce')
+    df['avg_salary'] = df['avg_salary'].fillna(0)
+
+
+    return df
+    
+    #return pd.read_csv('jobs_data.csv')
 
 df = load_data()
 

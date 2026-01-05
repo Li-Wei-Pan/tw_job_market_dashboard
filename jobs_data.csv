@@ -1,4 +1,7 @@
 company,title,description,low_salary,high_salary,link,address,pcSkills,avg_salary,skills_tags
+富邦人壽保險股份有限公司(總公司),【數位科技】資深數據分析師,"1.獨立依需求完成資料收集
+2.獨立與使用者討論所要分析的項目
+3.獨立進行基本的演算法智能項目",0,0,https://www.104.com.tw/job/8som9,台北市信義區,[],,NA
 希格諾科技股份有限公司,韌體工程師 (工作地點高雄市苓雅區),"# 嵌入式 Linux 韌體工程師
 
 工作內容：
@@ -60,6 +63,28 @@ company,title,description,low_salary,high_salary,link,address,pcSkills,avg_salar
 4.說明：
 (1)請於履歷表中註明論文主題(方向)及所學專長。
 (2)請檢附學士(含)以上之成績單。",0,0,https://www.104.com.tw/job/8twmz,新竹市,[],,NA
+GARMIN_台灣國際航電股份有限公司,【全球智慧製造】資料科學工程師 Data Scientist,"據處理、機器學習和預測性分析等方面的技能，能夠從複雜的數據中識別關鍵洞見，提出可操作的解決方案。 
+
+合作能力：
+能夠有效地與不同部門合作，協調專案的進行。 
+
+【工作內容】 
+1.使用資料科學技巧，分析大量數據以尋找工廠運營的關鍵洞見 
+2.依據",0,0,https://www.104.com.tw/job/70tf5,新北市新店區,"[{'code': '12001002018', 'description': 'Git'}, {'code': '12001003045', 'description': 'Python'}, {'code': '12001003078', 'description': 'R'}, {'code': '12001004031', 'description': 'MS SQL'}, {'code': '12001004038', 'description': 'PL/SQL'}, {'code': '12001011001', 'description': 'Tableau'}]",,"Git, Python, R, MS SQL, PL/SQL, Tableau"
+中央研究院_人文社會科學研究中心,地理資訊科學研究專題中心-IAIA計畫專任助理,"1.協助執行「研發AI在人文與科學研究的創新應用計畫(IAIA)」
+2.進行空間資訊人工智慧(Geo AI)研究，發展黑白歷史航空影像的色彩增強與合成技術。
+3.其他計畫主持人交辦事項。
+",31920,0,https://www.104.com.tw/job/8lftk,台北市南港區,[],31920.0,NA
+東科聲學股份有限公司,[IT] AI(資深)工程師,"負責公司內部 AI 應用的開發、整合與推廣，協助各部門導入 AI 技術以提升營運效率與創新能力：
+
+-設計、開發並維護 AI 模型與系統（如 NLP、Computer Vision、Recommendation Systems 等）
+-與業務單位合作，了解需求並提出 AI 解決方案
+-整合 AI 技術至現有系統與流程中（如 ERP、CRM、客服系統等）
+-研究並評估最新 AI 技術與工具，提出導入建議
+-建立 AI 使用標準與最佳實踐，推動公司 AI 化文化
+-協助內部教育訓練，提升員工對 AI 的認識與應用能力
+
+*依公司安排，需可配合公司出差海外工廠跟進相關專案。",0,0,https://www.104.com.tw/job/8ssl5,新北市新店區,[],,NA
 希悌電信通訊器材有限公司,6 axis robot operation engineer,"Project and schedule:
 
 1.
@@ -95,28 +120,6 @@ Under the request, we can give maximum technical documents and videos to underst
 Here is simple Tutorial Video of Hitbot 6 axis collaboration robot S922: https://www.youtube.com/watch?v=HWKRD_Zbx4E
 
 ",400,0,https://www.104.com.tw/job/8wnqn,新北市中和區,"[{'code': '12001003009', 'description': 'C#'}, {'code': '12001003010', 'description': 'C++'}, {'code': '12001003025', 'description': 'Java'}, {'code': '12001003045', 'description': 'Python'}]",400.0,"C#, C++, Java, Python"
-GARMIN_台灣國際航電股份有限公司,【全球智慧製造】資料科學工程師 Data Scientist,"據處理、機器學習和預測性分析等方面的技能，能夠從複雜的數據中識別關鍵洞見，提出可操作的解決方案。 
-
-合作能力：
-能夠有效地與不同部門合作，協調專案的進行。 
-
-【工作內容】 
-1.使用資料科學技巧，分析大量數據以尋找工廠運營的關鍵洞見 
-2.依據",0,0,https://www.104.com.tw/job/70tf5,新北市新店區,"[{'code': '12001002018', 'description': 'Git'}, {'code': '12001003045', 'description': 'Python'}, {'code': '12001003078', 'description': 'R'}, {'code': '12001004031', 'description': 'MS SQL'}, {'code': '12001004038', 'description': 'PL/SQL'}, {'code': '12001011001', 'description': 'Tableau'}]",,"Git, Python, R, MS SQL, PL/SQL, Tableau"
-中央研究院_人文社會科學研究中心,地理資訊科學研究專題中心-IAIA計畫專任助理,"1.協助執行「研發AI在人文與科學研究的創新應用計畫(IAIA)」
-2.進行空間資訊人工智慧(Geo AI)研究，發展黑白歷史航空影像的色彩增強與合成技術。
-3.其他計畫主持人交辦事項。
-",31920,0,https://www.104.com.tw/job/8lftk,台北市南港區,[],31920.0,NA
-東科聲學股份有限公司,[IT] AI(資深)工程師,"負責公司內部 AI 應用的開發、整合與推廣，協助各部門導入 AI 技術以提升營運效率與創新能力：
-
--設計、開發並維護 AI 模型與系統（如 NLP、Computer Vision、Recommendation Systems 等）
--與業務單位合作，了解需求並提出 AI 解決方案
--整合 AI 技術至現有系統與流程中（如 ERP、CRM、客服系統等）
--研究並評估最新 AI 技術與工具，提出導入建議
--建立 AI 使用標準與最佳實踐，推動公司 AI 化文化
--協助內部教育訓練，提升員工對 AI 的認識與應用能力
-
-*依公司安排，需可配合公司出差海外工廠跟進相關專案。",0,0,https://www.104.com.tw/job/8ssl5,新北市新店區,[],,NA
 三竹資訊股份有限公司,AI應用工程師,"技能需求：
  1. ⼆年或以上機器學習或深度學習實務應用模型建構經驗。
  2. 熟悉 Python 程式設計語言，並能夠將其應⽤於模型建構。
@@ -137,6 +140,9 @@ GARMIN_台灣國際航電股份有限公司,【全球智慧製造】資料科學
 - 熟悉雲端平台（AWS 或 GCP）與生成式 AI 應用。
 - 熟悉生成式 AI 應用。
 - 擁有機器學習、資安背景，或熟悉 DevOps/DevSecOps 流程。",0,0,https://www.104.com.tw/job/8s12x,新竹市,"[{'code': '12001002018', 'description': 'Git'}, {'code': '12001003045', 'description': 'Python'}, {'code': '12001003097', 'description': 'LLM'}, {'code': '12001006043', 'description': 'Django'}]",,"Git, Python, LLM, Django"
+DELOITTE CONSULTING BUSINESSES_勤業眾信管理顧問股份有限公司,【科技與轉型服務】數位轉型服務-AI與數據分析資深顧問,"數據分析解決方案
+2. 運用統計及機器學習等技術，針對客戶需求進行數據處理、數據分析、建模、資料視覺化設計等相關工作，並進行模型評估，提供商業洞察
+3. 協助專案研發與新技術的導入",0,0,https://www.104.com.tw/job/8waeh,台北市信義區,"[{'code': '12001003045', 'description': 'Python'}, {'code': '12001003078', 'description': 'R'}]",,"Python, R"
 國泰金控_國泰金融控股股份有限公司,"企業架構 - 技術架構師 (數數發中心, DDT)_I00014605","我們正在尋找具有熱情和創造力的資深軟體工程師/技術專家/軟體架構師，加入我們快速發展的企業技術架構團隊，研究開發創新的技術和有價值的金融應用，並落實在以下發展範疇：現代化保險科技、智慧金融醫療及綠色金融科技等。
 
 # 工作職掌：
@@ -150,21 +156,6 @@ GARMIN_台灣國際航電股份有限公司,【全球智慧製造】資料科學
 
 
 ",0,0,https://www.104.com.tw/job/87w3c,台北市信義區,[],,NA
-DELOITTE CONSULTING BUSINESSES_勤業眾信管理顧問股份有限公司,【科技與轉型服務】數位轉型服務-AI與數據分析資深顧問,"數據分析解決方案
-2. 運用統計及機器學習等技術，針對客戶需求進行數據處理、數據分析、建模、資料視覺化設計等相關工作，並進行模型評估，提供商業洞察
-3. 協助專案研發與新技術的導入",0,0,https://www.104.com.tw/job/8waeh,台北市信義區,"[{'code': '12001003045', 'description': 'Python'}, {'code': '12001003078', 'description': 'R'}]",,"Python, R"
-台新新光金控_台新國際商業銀行股份有限公司,〔個金〕2026年度研發替代役-數據規劃師(含役前實習) (台北),"想要在畢業旺季前就獲得實習就業機會? 
-想要讓自己當兵也能職場經驗收穫滿滿?
-
-★想往研發替代役的同學們趕快看過來★ 
-☆☆台新銀行，為研發替代役男創造更多機會☆☆
-業界少有的先實習再媒合，讓您掌握職務更容易。
-
-職務內容:
-
-1.數據探勘導入與應用。
-2.雲端分析技術評估、AI專題研究。
-3.語音數據分析、業務應用規劃。",0,0,https://www.104.com.tw/job/8khof,台北市大安區,"[{'code': '12001003045', 'description': 'Python'}, {'code': '12001004031', 'description': 'MS SQL'}, {'code': '12003005009', 'description': 'SAS'}]",,"Python, MS SQL, SAS"
 圖策科技股份有限公司,Backend Engineer 後端軟體工程師,"以及查詢語言: Oracle, SQL Server, MySQL/MariaDB
 √ 了解Graph Database概念
 √ 具雲端平台相關經驗 AWS, Azure or GCP
